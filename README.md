@@ -58,6 +58,16 @@ Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Conc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+          
+/>
+
 <br/>
 <br/>
 
