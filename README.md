@@ -2,12 +2,20 @@
 
 **`Desenvolvedor Back/Front-End`**
 
-Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Concluí o Ensino Médio com Habilitação Profissional de Técnico em Administração na ETEC Juscelino Kubitscheck de Oliveira. Atualmente estou cursando Técnologo em Desenvolvimento de Software Multiplataforma na FATEC Diadema e Desenvolvimento de Sistemas na ETEC Juscelino Kubitscheck de Oliveira. 
+Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Concluí o Ensino Médio com Habilitação Profissional de Técnico em Administração na ETEC Juscelino Kubitscheck de Oliveira. Atualmente, estou cursando Técnologo em Desenvolvimento de Software Multiplataforma na <bFATEC Diadema/b> e Desenvolvimento de Sistemas na ETEC Juscelino Kubitscheck de Oliveira. 
 
 ---
 
 ###  Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -42,6 +50,16 @@ Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Conc
 />
 <img 
     align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
+/>
+
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -73,6 +91,33 @@ Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Conc
     width="30px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Apache" 
+    title="Apache"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Trello" 
+    title="Trello"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
 />
 
 <br/>
