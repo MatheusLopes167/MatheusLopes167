@@ -102,6 +102,15 @@ Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Conc
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Trello" 
+    title="Trello"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
+/>
+
 
 <img 
     align="left" 
@@ -110,14 +119,6 @@ Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Conc
     width="50px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Trello" 
-    title="Trello"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
 />
 
 <br/>
