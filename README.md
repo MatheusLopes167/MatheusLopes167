@@ -26,6 +26,14 @@ Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Conc
 />
 <img 
     align="left" 
+    alt="Java Script" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
