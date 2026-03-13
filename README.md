@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back/Front-End`**
 
-Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Concluí o Ensino Médio com Habilitação Profissional de Técnico em Administração na ETEC Juscelino Kubitscheck de Oliveira. Atualmente estou cursando Desenvolvimento de Sistemas na ETEC Juscelino Kubitscheck de Oliveira. 
+Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Concluí o Ensino Médio com Habilitação Profissional de Técnico em Administração na ETEC Juscelino Kubitscheck de Oliveira. Atualmente estou cursando Técnologo em Desenvolvimento de Software Multiplataforma na FATEC Diadema e Desenvolvimento de Sistemas na ETEC Juscelino Kubitscheck de Oliveira. 
 
 ---
 
