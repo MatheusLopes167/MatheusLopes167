@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back/Front-End`**
 
-Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Concluí o Ensino Médio com Habilitação Profissional de Técnico em Administração na ETEC Juscelino Kubitscheck de Oliveira. Atualmente, estou cursando Técnologo em Desenvolvimento de Software Multiplataforma na <bFATEC Diadema/b> e Desenvolvimento de Sistemas na ETEC Juscelino Kubitscheck de Oliveira. 
+Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Concluí o Ensino Médio com Habilitação Profissional de Técnico em Administração na ETEC Juscelino Kubitscheck de Oliveira. Atualmente, estou cursando **Técnologo em Desenvolvimento de Software Multiplataforma** na **FATEC DIADEMA** e **Desenvolvimento de Sistemas** na **ETEC Juscelino Kubitscheck de Oliveira**. 
 
 ---
 
@@ -13,7 +13,7 @@ Me chamo Matheus Ferreira Lopes, tenho 18 anos e sou natural de São Paulo. Conc
     alt="Python"
     title="Python" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
